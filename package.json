@@ -1,0 +1,28 @@
+{
+  "name": "karma-jasmine-jsonpath",
+  "version": "1.0.0",
+  "description": "Adds jasmine-jsonpath matchers to karma-jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faceleg/karma-jasmine-jsonpath.git"
+  },
+  "keywords": [
+    "karma-jasmine",
+    "json"
+  ],
+  "author": "Michael Robinson <mike@pagesofinterest.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faceleg/karma-jasmine-jsonpath/issues"
+  },
+  "homepage": "https://github.com/faceleg/karma-jasmine-jsonpath#readme",
+  "dependencies": {
+    "JSONPath": "^0.10.0",
+    "jasmine-jsonpath": "^0.1.0",
+    "jsonpath": "^0.1.8"
+  }
+}
